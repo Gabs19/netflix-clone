@@ -1,7 +1,6 @@
-#Clone do Netflix
+# Clone do Netflix
+## - Tela Principal -
 
-##Tela Principal
-
-###Tecnologias usada 
+### Tecnologias usadas: 
 * React js
 * TMDB API
